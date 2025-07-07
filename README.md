@@ -29,3 +29,10 @@ This project combines the power of Web3 authentication and advanced image encryp
 
 ## 📦 Folder Structure
 
+├── client/ # React frontend
+│ ├── src/
+│ └── public/
+├── server/ # Node.js backend
+├── drsism.py # Python logic for DR-SISM
+├── .env # Environment variables
+└── README.md
